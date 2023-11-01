@@ -150,4 +150,4 @@ if uploaded_file is not None:
     st.write(result)
 
 # Footer
-st.sidebar.text("Data analysis dashboard by Noor Saeed")
+st.sidebar.text("Data analysis dashboard by Naveen Pandey")
