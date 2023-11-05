@@ -1,6 +1,7 @@
 # Isreal_Palestine_Data_Analysis
 
-![Uploading isrea.png…]()
+
+![isrea](https://github.com/Naveenpandey27/Isreal_Palestine_Data_Analysis/assets/66298494/ca8371b1-dea0-4b28-a84f-22b584790251)
 
 
 # Incident Data Analysis Dashboard
